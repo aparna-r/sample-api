@@ -1,4 +1,3 @@
-
 apiPipeline {
     schedule = 'H 02 * * *'
     email = "aparna.rastogi@abc.com"
